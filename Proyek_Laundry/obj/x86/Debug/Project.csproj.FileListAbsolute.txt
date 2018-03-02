@@ -1,0 +1,8 @@
+C:\Users\adhit\AppData\Local\Temporary Projects\Project\obj\x86\Debug\Project.LoginForm.resources
+C:\Users\adhit\AppData\Local\Temporary Projects\Project\obj\x86\Debug\Project.Properties.Resources.resources
+C:\Users\adhit\AppData\Local\Temporary Projects\Project\obj\x86\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\adhit\AppData\Local\Temporary Projects\Project\bin\Debug\Project.exe
+C:\Users\adhit\AppData\Local\Temporary Projects\Project\bin\Debug\Project.pdb
+C:\Users\adhit\AppData\Local\Temporary Projects\Project\obj\x86\Debug\Project.exe
+C:\Users\adhit\AppData\Local\Temporary Projects\Project\obj\x86\Debug\Project.pdb
+C:\Users\adhit\AppData\Local\Temporary Projects\Project\obj\x86\Debug\Project.HomeForm.resources

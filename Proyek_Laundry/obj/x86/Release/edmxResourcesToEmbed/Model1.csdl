@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DatabaseModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+  <EntityContainer Name="DatabaseEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="DetailTransactions" EntityType="DatabaseModel.DetailTransaction" />
+    <EntitySet Name="HeaderTransactions" EntityType="DatabaseModel.HeaderTransaction" />
+    <EntitySet Name="PriceLists" EntityType="DatabaseModel.PriceList" />
+    <EntitySet Name="Reviews" EntityType="DatabaseModel.Review" />
+    <EntitySet Name="Users" EntityType="DatabaseModel.User" />
+    <AssociationSet Name="FK_DetailTransaction_HeaderTransaction" Association="DatabaseModel.FK_DetailTransaction_HeaderTransaction">
+      <End Role="HeaderTransaction" EntitySet="HeaderTransactions" />
+      <End Role="DetailTransaction" EntitySet="DetailTransactions" />
+    </AssociationSet>
+    <AssociationSet Name="FK_DetailTransaction_PriceList" Association="DatabaseModel.FK_DetailTransaction_PriceList">
+      <End Role="PriceList" EntitySet="PriceLists" />
+      <End Role="DetailTransaction" EntitySet="DetailTransactions" />
+    </AssociationSet>
+    <AssociationSet Name="FK_HeaderTransaction_Users" Association="DatabaseModel.FK_HeaderTransaction_Users">
+      <End Role="User" EntitySet="Users" />
+      <End Role="HeaderTransaction" EntitySet="HeaderTransactions" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Review_PriceList" Association="DatabaseModel.FK_Review_PriceList">
+      <End Role="PriceList" EntitySet="PriceLists" />
+      <End Role="Review" EntitySet="Reviews" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Review_Users" Association="DatabaseModel.FK_Review_Users">
+      <End Role="User" EntitySet="Users" />
+      <End Role="Review" EntitySet="Reviews" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="DetailTransaction">
+    <Key>
+      <PropertyRef Name="TransactionID" />
+      <PropertyRef Name="ProductID" />
+    </Key>
+    <Property Type="String" Name="TransactionID" Nullable="false" MaxLength="5" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="ProductID" Nullable="false" MaxLength="5" FixedLength="false" Unicode="false" />
+    <Property Type="Int32" Name="Quantity" />
+    <Property Type="Int32" Name="Price" />
+    <NavigationProperty Name="HeaderTransaction" Relationship="DatabaseModel.FK_DetailTransaction_HeaderTransaction" FromRole="DetailTransaction" ToRole="HeaderTransaction" />
+    <NavigationProperty Name="PriceList" Relationship="DatabaseModel.FK_DetailTransaction_PriceList" FromRole="DetailTransaction" ToRole="PriceList" />
+  </EntityType>
+  <EntityType Name="HeaderTransaction">
+    <Key>
+      <PropertyRef Name="TransactionID" />
+    </Key>
+    <Property Type="String" Name="TransactionID" Nullable="false" MaxLength="5" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="UserID" MaxLength="5" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="Status" MaxLength="10" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="DetailTransactions" Relationship="DatabaseModel.FK_DetailTransaction_HeaderTransaction" FromRole="HeaderTransaction" ToRole="DetailTransaction" />
+    <NavigationProperty Name="User" Relationship="DatabaseModel.FK_HeaderTransaction_Users" FromRole="HeaderTransaction" ToRole="User" />
+  </EntityType>
+  <EntityType Name="PriceList">
+    <Key>
+      <PropertyRef Name="ProductID" />
+    </Key>
+    <Property Type="String" Name="ProductID" Nullable="false" MaxLength="5" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="ProductName" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="Int32" Name="ProductPrice" />
+    <NavigationProperty Name="DetailTransactions" Relationship="DatabaseModel.FK_DetailTransaction_PriceList" FromRole="PriceList" ToRole="DetailTransaction" />
+    <NavigationProperty Name="Reviews" Relationship="DatabaseModel.FK_Review_PriceList" FromRole="PriceList" ToRole="Review" />
+  </EntityType>
+  <EntityType Name="Review">
+    <Key>
+      <PropertyRef Name="ReviewID" />
+    </Key>
+    <Property Type="String" Name="ReviewID" Nullable="false" MaxLength="5" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="Reviews" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="ProductID" MaxLength="5" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="UserID" MaxLength="5" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="PriceList" Relationship="DatabaseModel.FK_Review_PriceList" FromRole="Review" ToRole="PriceList" />
+    <NavigationProperty Name="User" Relationship="DatabaseModel.FK_Review_Users" FromRole="Review" ToRole="User" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="UserID" />
+    </Key>
+    <Property Type="String" Name="UserID" Nullable="false" MaxLength="5" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="UserName" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="UserPassword" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="UserEmail" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="UserAddress" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="UserPhoneNumber" MaxLength="15" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="RoleName" MaxLength="10" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="HeaderTransactions" Relationship="DatabaseModel.FK_HeaderTransaction_Users" FromRole="User" ToRole="HeaderTransaction" />
+    <NavigationProperty Name="Reviews" Relationship="DatabaseModel.FK_Review_Users" FromRole="User" ToRole="Review" />
+  </EntityType>
+  <Association Name="FK_DetailTransaction_HeaderTransaction">
+    <End Type="DatabaseModel.HeaderTransaction" Role="HeaderTransaction" Multiplicity="1" />
+    <End Type="DatabaseModel.DetailTransaction" Role="DetailTransaction" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HeaderTransaction">
+        <PropertyRef Name="TransactionID" />
+      </Principal>
+      <Dependent Role="DetailTransaction">
+        <PropertyRef Name="TransactionID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_DetailTransaction_PriceList">
+    <End Type="DatabaseModel.PriceList" Role="PriceList" Multiplicity="1" />
+    <End Type="DatabaseModel.DetailTransaction" Role="DetailTransaction" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PriceList">
+        <PropertyRef Name="ProductID" />
+      </Principal>
+      <Dependent Role="DetailTransaction">
+        <PropertyRef Name="ProductID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_HeaderTransaction_Users">
+    <End Type="DatabaseModel.User" Role="User" Multiplicity="0..1" />
+    <End Type="DatabaseModel.HeaderTransaction" Role="HeaderTransaction" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="UserID" />
+      </Principal>
+      <Dependent Role="HeaderTransaction">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Review_PriceList">
+    <End Type="DatabaseModel.PriceList" Role="PriceList" Multiplicity="0..1" />
+    <End Type="DatabaseModel.Review" Role="Review" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PriceList">
+        <PropertyRef Name="ProductID" />
+      </Principal>
+      <Dependent Role="Review">
+        <PropertyRef Name="ProductID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Review_Users">
+    <End Type="DatabaseModel.User" Role="User" Multiplicity="0..1" />
+    <End Type="DatabaseModel.Review" Role="Review" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="UserID" />
+      </Principal>
+      <Dependent Role="Review">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

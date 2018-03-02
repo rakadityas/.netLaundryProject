@@ -1,0 +1,248 @@
+A:\Proyek\OODB_LAB\Proyek_Laundry\Proyek_Laundry\bin\Debug\Proyek_Laundry.exe
+A:\Proyek\OODB_LAB\Proyek_Laundry\Proyek_Laundry\bin\Debug\Proyek_Laundry.pdb
+A:\Proyek\OODB_LAB\Proyek_Laundry\Proyek_Laundry\obj\x86\Debug\Project.HomeForm.resources
+A:\Proyek\OODB_LAB\Proyek_Laundry\Proyek_Laundry\obj\x86\Debug\Project.LoginForm.resources
+A:\Proyek\OODB_LAB\Proyek_Laundry\Proyek_Laundry\obj\x86\Debug\Project.Properties.Resources.resources
+A:\Proyek\OODB_LAB\Proyek_Laundry\Proyek_Laundry\obj\x86\Debug\Project.RegisterForm.resources
+A:\Proyek\OODB_LAB\Proyek_Laundry\Proyek_Laundry\obj\x86\Debug\Proyek_Laundry.csproj.GenerateResource.Cache
+A:\Proyek\OODB_LAB\Proyek_Laundry\Proyek_Laundry\obj\x86\Debug\Proyek_Laundry.exe
+A:\Proyek\OODB_LAB\Proyek_Laundry\Proyek_Laundry\obj\x86\Debug\Proyek_Laundry.pdb
+A:\Proyek\OODB_LAB\Proyek_Laundry\Proyek_Laundry\obj\x86\Debug\Proyek_Laundry.csprojResolveAssemblyReference.cache
+A:\Proyek\OODB_LAB\Proyek_Laundry\Proyek_Laundry\obj\x86\Debug\Project.ChangePassword.resources
+A:\Proyek\OODB_LAB\Proyek_Laundry\Proyek_Laundry\obj\x86\Debug\Project.ManageUserForm.resources
+A:\Proyek\OODB_LAB\Proyek_Laundry\Proyek_Laundry\obj\x86\Debug\Project.OrderForm.resources
+A:\Proyek\OODB_LAB\Proyek_Laundry\Proyek_Laundry\obj\x86\Debug\Project.ViewTransactionForm.resources
+D:\Proyek Semester 4\OODB_LAB\Proyek_Laundry\Proyek_Laundry\obj\x86\Debug\Proyek_Laundry.exe
+D:\Proyek Semester 4\OODB_LAB\Proyek_Laundry\Proyek_Laundry\obj\x86\Debug\Proyek_Laundry.pdb
+D:\Proyek Semester 4\OODB_LAB\Proyek_Laundry\Proyek_Laundry\bin\Debug\Proyek_Laundry.exe
+D:\Proyek Semester 4\OODB_LAB\Proyek_Laundry\Proyek_Laundry\bin\Debug\Proyek_Laundry.pdb
+D:\Proyek Semester 4\OODB_LAB\Proyek_Laundry\Proyek_Laundry\obj\x86\Debug\Proyek_Laundry.csprojResolveAssemblyReference.cache
+D:\Proyek Semester 4\OODB_LAB\Proyek_Laundry\Proyek_Laundry\obj\x86\Debug\Project.ChangePasswordForm.resources
+D:\Proyek Semester 4\OODB_LAB\Proyek_Laundry\Proyek_Laundry\obj\x86\Debug\Project.HomeForm.resources
+D:\Proyek Semester 4\OODB_LAB\Proyek_Laundry\Proyek_Laundry\obj\x86\Debug\Project.LoginForm.resources
+D:\Proyek Semester 4\OODB_LAB\Proyek_Laundry\Proyek_Laundry\obj\x86\Debug\Project.ManageUserForm.resources
+D:\Proyek Semester 4\OODB_LAB\Proyek_Laundry\Proyek_Laundry\obj\x86\Debug\Project.MasterLaundryForm.resources
+D:\Proyek Semester 4\OODB_LAB\Proyek_Laundry\Proyek_Laundry\obj\x86\Debug\Project.OrderForm.resources
+D:\Proyek Semester 4\OODB_LAB\Proyek_Laundry\Proyek_Laundry\obj\x86\Debug\Project.Properties.Resources.resources
+D:\Proyek Semester 4\OODB_LAB\Proyek_Laundry\Proyek_Laundry\obj\x86\Debug\Project.RegisterForm.resources
+D:\Proyek Semester 4\OODB_LAB\Proyek_Laundry\Proyek_Laundry\obj\x86\Debug\Project.ViewTransactionForm.resources
+D:\Proyek Semester 4\OODB_LAB\Proyek_Laundry\Proyek_Laundry\obj\x86\Debug\Proyek_Laundry.csproj.GenerateResource.Cache
+F:\PROYEKK\OODB_LAB\Proyek_Laundry\Proyek_Laundry\obj\x86\Debug\Proyek_Laundry.exe
+F:\PROYEKK\OODB_LAB\Proyek_Laundry\Proyek_Laundry\obj\x86\Debug\Proyek_Laundry.pdb
+F:\PROYEKK\OODB_LAB\Proyek_Laundry\Proyek_Laundry\bin\Debug\Proyek_Laundry.exe
+F:\PROYEKK\OODB_LAB\Proyek_Laundry\Proyek_Laundry\bin\Debug\Proyek_Laundry.pdb
+F:\PROYEKK\OODB_LAB\Proyek_Laundry\Proyek_Laundry\obj\x86\Debug\Proyek_Laundry.csprojResolveAssemblyReference.cache
+F:\PROYEKK\OODB_LAB\Proyek_Laundry\Proyek_Laundry\obj\x86\Debug\Project.ChangePasswordForm.resources
+F:\PROYEKK\OODB_LAB\Proyek_Laundry\Proyek_Laundry\obj\x86\Debug\Project.HomeForm.resources
+F:\PROYEKK\OODB_LAB\Proyek_Laundry\Proyek_Laundry\obj\x86\Debug\Project.LoginForm.resources
+F:\PROYEKK\OODB_LAB\Proyek_Laundry\Proyek_Laundry\obj\x86\Debug\Project.ManageUserForm.resources
+F:\PROYEKK\OODB_LAB\Proyek_Laundry\Proyek_Laundry\obj\x86\Debug\Project.MasterLaundryForm.resources
+F:\PROYEKK\OODB_LAB\Proyek_Laundry\Proyek_Laundry\obj\x86\Debug\Project.OrderForm.resources
+F:\PROYEKK\OODB_LAB\Proyek_Laundry\Proyek_Laundry\obj\x86\Debug\Project.Properties.Resources.resources
+F:\PROYEKK\OODB_LAB\Proyek_Laundry\Proyek_Laundry\obj\x86\Debug\Project.RegisterForm.resources
+F:\PROYEKK\OODB_LAB\Proyek_Laundry\Proyek_Laundry\obj\x86\Debug\Project.ReviewForm.resources
+F:\PROYEKK\OODB_LAB\Proyek_Laundry\Proyek_Laundry\obj\x86\Debug\Project.ViewTransactionForm.resources
+F:\PROYEKK\OODB_LAB\Proyek_Laundry\Proyek_Laundry\obj\x86\Debug\Proyek_Laundry.csproj.GenerateResource.Cache
+A:\Proyek\OODB_LAB\Proyek_Laundry 3.0\Proyek_Laundry\obj\x86\Debug\Proyek_Laundry.exe
+A:\Proyek\OODB_LAB\Proyek_Laundry 3.0\Proyek_Laundry\obj\x86\Debug\Proyek_Laundry.pdb
+A:\Proyek\OODB_LAB\Proyek_Laundry 3.0\Proyek_Laundry\bin\Debug\Proyek_Laundry.exe
+A:\Proyek\OODB_LAB\Proyek_Laundry 3.0\Proyek_Laundry\bin\Debug\Proyek_Laundry.pdb
+A:\Proyek\OODB_LAB\Proyek_Laundry 3.0\Proyek_Laundry\obj\x86\Debug\Proyek_Laundry.csprojResolveAssemblyReference.cache
+A:\Proyek\OODB_LAB\Proyek_Laundry 3.0\Proyek_Laundry\obj\x86\Debug\Project.ChangePasswordForm.resources
+A:\Proyek\OODB_LAB\Proyek_Laundry 3.0\Proyek_Laundry\obj\x86\Debug\Project.HomeForm.resources
+A:\Proyek\OODB_LAB\Proyek_Laundry 3.0\Proyek_Laundry\obj\x86\Debug\Project.LoginForm.resources
+A:\Proyek\OODB_LAB\Proyek_Laundry 3.0\Proyek_Laundry\obj\x86\Debug\Project.ManageUserForm.resources
+A:\Proyek\OODB_LAB\Proyek_Laundry 3.0\Proyek_Laundry\obj\x86\Debug\Project.MasterLaundryForm.resources
+A:\Proyek\OODB_LAB\Proyek_Laundry 3.0\Proyek_Laundry\obj\x86\Debug\Project.OrderForm.resources
+A:\Proyek\OODB_LAB\Proyek_Laundry 3.0\Proyek_Laundry\obj\x86\Debug\Project.Properties.Resources.resources
+A:\Proyek\OODB_LAB\Proyek_Laundry 3.0\Proyek_Laundry\obj\x86\Debug\Project.RegisterForm.resources
+A:\Proyek\OODB_LAB\Proyek_Laundry 3.0\Proyek_Laundry\obj\x86\Debug\Project.ReviewForm.resources
+A:\Proyek\OODB_LAB\Proyek_Laundry 3.0\Proyek_Laundry\obj\x86\Debug\Project.ViewTransactionForm.resources
+A:\Proyek\OODB_LAB\Proyek_Laundry 3.0\Proyek_Laundry\obj\x86\Debug\Proyek_Laundry.csproj.GenerateResource.Cache
+D:\Proyek Semester 4\OODB_LAB\Proyek_Laundry 3.0\Proyek_Laundry\obj\x86\Debug\Proyek_Laundry.exe
+D:\Proyek Semester 4\OODB_LAB\Proyek_Laundry 3.0\Proyek_Laundry\obj\x86\Debug\Proyek_Laundry.pdb
+A:\Proyek\OODB_LAB\Proyek_Laundry 4.0\Proyek_Laundry\obj\x86\Debug\Proyek_Laundry.exe
+A:\Proyek\OODB_LAB\Proyek_Laundry 4.0\Proyek_Laundry\obj\x86\Debug\Proyek_Laundry.pdb
+A:\Proyek\OODB_LAB\Proyek_Laundry 4.0\Proyek_Laundry\bin\Debug\Proyek_Laundry.exe
+A:\Proyek\OODB_LAB\Proyek_Laundry 4.0\Proyek_Laundry\bin\Debug\Proyek_Laundry.pdb
+A:\Proyek\OODB_LAB\Proyek_Laundry 4.0\Proyek_Laundry\obj\x86\Debug\Proyek_Laundry.csprojResolveAssemblyReference.cache
+A:\Proyek\OODB_LAB\Proyek_Laundry 4.0\Proyek_Laundry\obj\x86\Debug\Project.ChangePasswordForm.resources
+A:\Proyek\OODB_LAB\Proyek_Laundry 4.0\Proyek_Laundry\obj\x86\Debug\Project.HomeForm.resources
+A:\Proyek\OODB_LAB\Proyek_Laundry 4.0\Proyek_Laundry\obj\x86\Debug\Project.LoginForm.resources
+A:\Proyek\OODB_LAB\Proyek_Laundry 4.0\Proyek_Laundry\obj\x86\Debug\Project.ManageUserForm.resources
+A:\Proyek\OODB_LAB\Proyek_Laundry 4.0\Proyek_Laundry\obj\x86\Debug\Project.MasterLaundryForm.resources
+A:\Proyek\OODB_LAB\Proyek_Laundry 4.0\Proyek_Laundry\obj\x86\Debug\Project.OrderForm.resources
+A:\Proyek\OODB_LAB\Proyek_Laundry 4.0\Proyek_Laundry\obj\x86\Debug\Project.Properties.Resources.resources
+A:\Proyek\OODB_LAB\Proyek_Laundry 4.0\Proyek_Laundry\obj\x86\Debug\Project.RegisterForm.resources
+A:\Proyek\OODB_LAB\Proyek_Laundry 4.0\Proyek_Laundry\obj\x86\Debug\Project.ReviewForm.resources
+A:\Proyek\OODB_LAB\Proyek_Laundry 4.0\Proyek_Laundry\obj\x86\Debug\Project.ViewTransactionForm.resources
+A:\Proyek\OODB_LAB\Proyek_Laundry 4.0\Proyek_Laundry\obj\x86\Debug\Proyek_Laundry.csproj.GenerateResource.Cache
+A:\Proyek\OODB_LAB\Proyek_Laundry 5.0\Proyek_Laundry\obj\x86\Debug\Proyek_Laundry.exe
+A:\Proyek\OODB_LAB\Proyek_Laundry 5.0\Proyek_Laundry\obj\x86\Debug\Proyek_Laundry.pdb
+A:\Proyek\OODB_LAB\Proyek_Laundry 5.0\Proyek_Laundry\bin\Debug\Proyek_Laundry.exe
+A:\Proyek\OODB_LAB\Proyek_Laundry 5.0\Proyek_Laundry\bin\Debug\Proyek_Laundry.pdb
+A:\Proyek\OODB_LAB\Proyek_Laundry 5.0\Proyek_Laundry\obj\x86\Debug\Proyek_Laundry.csprojResolveAssemblyReference.cache
+A:\Proyek\OODB_LAB\Proyek_Laundry 5.0\Proyek_Laundry\obj\x86\Debug\Project.ChangePasswordForm.resources
+A:\Proyek\OODB_LAB\Proyek_Laundry 5.0\Proyek_Laundry\obj\x86\Debug\Project.HomeForm.resources
+A:\Proyek\OODB_LAB\Proyek_Laundry 5.0\Proyek_Laundry\obj\x86\Debug\Project.LoginForm.resources
+A:\Proyek\OODB_LAB\Proyek_Laundry 5.0\Proyek_Laundry\obj\x86\Debug\Project.ManageUserForm.resources
+A:\Proyek\OODB_LAB\Proyek_Laundry 5.0\Proyek_Laundry\obj\x86\Debug\Project.MasterLaundryForm.resources
+A:\Proyek\OODB_LAB\Proyek_Laundry 5.0\Proyek_Laundry\obj\x86\Debug\Project.OrderForm.resources
+A:\Proyek\OODB_LAB\Proyek_Laundry 5.0\Proyek_Laundry\obj\x86\Debug\Project.Properties.Resources.resources
+A:\Proyek\OODB_LAB\Proyek_Laundry 5.0\Proyek_Laundry\obj\x86\Debug\Project.RegisterForm.resources
+A:\Proyek\OODB_LAB\Proyek_Laundry 5.0\Proyek_Laundry\obj\x86\Debug\Project.ReviewForm.resources
+A:\Proyek\OODB_LAB\Proyek_Laundry 5.0\Proyek_Laundry\obj\x86\Debug\Project.ViewTransactionForm.resources
+A:\Proyek\OODB_LAB\Proyek_Laundry 5.0\Proyek_Laundry\obj\x86\Debug\Proyek_Laundry.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\Proyek_Laundry 5.0 - Copy\Proyek_Laundry\obj\x86\Debug\Proyek_Laundry.exe
+C:\Users\ASUS\Desktop\Proyek_Laundry 5.0 - Copy\Proyek_Laundry\obj\x86\Debug\Proyek_Laundry.pdb
+C:\Users\ASUS\Desktop\Proyek_Laundry 5.0 - Copy\Proyek_Laundry\bin\Debug\Proyek_Laundry.exe
+C:\Users\ASUS\Desktop\Proyek_Laundry 5.0 - Copy\Proyek_Laundry\bin\Debug\Proyek_Laundry.pdb
+C:\Users\ASUS\Desktop\Proyek_Laundry 5.0 - Copy\Proyek_Laundry\obj\x86\Debug\Proyek_Laundry.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\Proyek_Laundry 5.0 - Copy\Proyek_Laundry\obj\x86\Debug\Project.ChangePasswordForm.resources
+C:\Users\ASUS\Desktop\Proyek_Laundry 5.0 - Copy\Proyek_Laundry\obj\x86\Debug\Project.HomeForm.resources
+C:\Users\ASUS\Desktop\Proyek_Laundry 5.0 - Copy\Proyek_Laundry\obj\x86\Debug\Project.LoginForm.resources
+C:\Users\ASUS\Desktop\Proyek_Laundry 5.0 - Copy\Proyek_Laundry\obj\x86\Debug\Project.ManageUserForm.resources
+C:\Users\ASUS\Desktop\Proyek_Laundry 5.0 - Copy\Proyek_Laundry\obj\x86\Debug\Project.MasterLaundryForm.resources
+C:\Users\ASUS\Desktop\Proyek_Laundry 5.0 - Copy\Proyek_Laundry\obj\x86\Debug\Project.OrderForm.resources
+C:\Users\ASUS\Desktop\Proyek_Laundry 5.0 - Copy\Proyek_Laundry\obj\x86\Debug\Project.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Proyek_Laundry 5.0 - Copy\Proyek_Laundry\obj\x86\Debug\Project.RegisterForm.resources
+C:\Users\ASUS\Desktop\Proyek_Laundry 5.0 - Copy\Proyek_Laundry\obj\x86\Debug\Project.ReviewForm.resources
+C:\Users\ASUS\Desktop\Proyek_Laundry 5.0 - Copy\Proyek_Laundry\obj\x86\Debug\Project.ViewTransactionForm.resources
+C:\Users\ASUS\Desktop\Proyek_Laundry 5.0 - Copy\Proyek_Laundry\obj\x86\Debug\Proyek_Laundry.csproj.GenerateResource.Cache
+D:\Proyek Semester 4\OODB_LAB\Proyek_Laundry 5.0 - Copy\Proyek_Laundry\obj\x86\Debug\Proyek_Laundry.exe
+D:\Proyek Semester 4\OODB_LAB\Proyek_Laundry 5.0 - Copy\Proyek_Laundry\obj\x86\Debug\Proyek_Laundry.pdb
+D:\Proyek Semester 4\OODB_LAB\Proyek_Laundry 5.0 - Copy\Proyek_Laundry\bin\Debug\Proyek_Laundry.exe
+D:\Proyek Semester 4\OODB_LAB\Proyek_Laundry 5.0 - Copy\Proyek_Laundry\bin\Debug\Proyek_Laundry.pdb
+D:\Proyek Semester 4\OODB_LAB\Proyek_Laundry 5.0 - Copy\Proyek_Laundry\obj\x86\Debug\Proyek_Laundry.csprojResolveAssemblyReference.cache
+D:\Proyek Semester 4\OODB_LAB\Proyek_Laundry 5.0 - Copy\Proyek_Laundry\obj\x86\Debug\Project.ChangePasswordForm.resources
+D:\Proyek Semester 4\OODB_LAB\Proyek_Laundry 5.0 - Copy\Proyek_Laundry\obj\x86\Debug\Project.HomeForm.resources
+D:\Proyek Semester 4\OODB_LAB\Proyek_Laundry 5.0 - Copy\Proyek_Laundry\obj\x86\Debug\Project.LoginForm.resources
+D:\Proyek Semester 4\OODB_LAB\Proyek_Laundry 5.0 - Copy\Proyek_Laundry\obj\x86\Debug\Project.ManageUserForm.resources
+D:\Proyek Semester 4\OODB_LAB\Proyek_Laundry 5.0 - Copy\Proyek_Laundry\obj\x86\Debug\Project.MasterLaundryForm.resources
+D:\Proyek Semester 4\OODB_LAB\Proyek_Laundry 5.0 - Copy\Proyek_Laundry\obj\x86\Debug\Project.OrderForm.resources
+D:\Proyek Semester 4\OODB_LAB\Proyek_Laundry 5.0 - Copy\Proyek_Laundry\obj\x86\Debug\Project.Properties.Resources.resources
+D:\Proyek Semester 4\OODB_LAB\Proyek_Laundry 5.0 - Copy\Proyek_Laundry\obj\x86\Debug\Project.RegisterForm.resources
+D:\Proyek Semester 4\OODB_LAB\Proyek_Laundry 5.0 - Copy\Proyek_Laundry\obj\x86\Debug\Project.ReviewForm.resources
+D:\Proyek Semester 4\OODB_LAB\Proyek_Laundry 5.0 - Copy\Proyek_Laundry\obj\x86\Debug\Project.ViewTransactionForm.resources
+D:\Proyek Semester 4\OODB_LAB\Proyek_Laundry 5.0 - Copy\Proyek_Laundry\obj\x86\Debug\Proyek_Laundry.csproj.GenerateResource.Cache
+D:\Proyek Semester 4\OODB_LAB\Proyek_Laundry 5.0 - Copy\Proyek_Laundry\bin\Debug\Proyek_Laundry.exe.config
+D:\Proyek Semester 4\OODB_LAB\Proyek_Laundry 5.0 - Copy\Proyek_Laundry\bin\Debug\Database1.mdf
+D:\Proyek Semester 4\OODB_LAB\Proyek_Laundry 5.0 - Copy\Proyek_Laundry\bin\Debug\Database1_log.ldf
+E:\Proyek_Laundry 5.0 - Copy\Proyek_Laundry\bin\Debug\Proyek_Laundry.exe.config
+E:\Proyek_Laundry 5.0 - Copy\Proyek_Laundry\obj\x86\Debug\Proyek_Laundry.exe
+E:\Proyek_Laundry 5.0 - Copy\Proyek_Laundry\obj\x86\Debug\Proyek_Laundry.pdb
+E:\Proyek_Laundry 5.0 - Copy\Proyek_Laundry\bin\Debug\Database1.mdf
+E:\Proyek_Laundry 5.0 - Copy\Proyek_Laundry\bin\Debug\Database1_log.ldf
+E:\Proyek_Laundry 5.0 - Copy\Proyek_Laundry\bin\Debug\Proyek_Laundry.exe
+E:\Proyek_Laundry 5.0 - Copy\Proyek_Laundry\bin\Debug\Proyek_Laundry.pdb
+E:\Proyek_Laundry 5.0 - Copy\Proyek_Laundry\obj\x86\Debug\Proyek_Laundry.csprojResolveAssemblyReference.cache
+E:\Proyek_Laundry 5.0 - Copy\Proyek_Laundry\obj\x86\Debug\Project.ChangePasswordForm.resources
+E:\Proyek_Laundry 5.0 - Copy\Proyek_Laundry\obj\x86\Debug\Project.HomeForm.resources
+E:\Proyek_Laundry 5.0 - Copy\Proyek_Laundry\obj\x86\Debug\Project.LoginForm.resources
+E:\Proyek_Laundry 5.0 - Copy\Proyek_Laundry\obj\x86\Debug\Project.ManageUserForm.resources
+E:\Proyek_Laundry 5.0 - Copy\Proyek_Laundry\obj\x86\Debug\Project.MasterLaundryForm.resources
+E:\Proyek_Laundry 5.0 - Copy\Proyek_Laundry\obj\x86\Debug\Project.OrderForm.resources
+E:\Proyek_Laundry 5.0 - Copy\Proyek_Laundry\obj\x86\Debug\Project.Properties.Resources.resources
+E:\Proyek_Laundry 5.0 - Copy\Proyek_Laundry\obj\x86\Debug\Project.RegisterForm.resources
+E:\Proyek_Laundry 5.0 - Copy\Proyek_Laundry\obj\x86\Debug\Project.ReviewForm.resources
+E:\Proyek_Laundry 5.0 - Copy\Proyek_Laundry\obj\x86\Debug\Project.ViewTransactionForm.resources
+E:\Proyek_Laundry 5.0 - Copy\Proyek_Laundry\obj\x86\Debug\Proyek_Laundry.csproj.GenerateResource.Cache
+A:\Proyek\OODB_LAB\Proyek_Laundry 5.0 - copy\Proyek_Laundry\bin\Debug\Proyek_Laundry.exe.config
+A:\Proyek\OODB_LAB\Proyek_Laundry 5.0 - copy\Proyek_Laundry\obj\x86\Debug\Proyek_Laundry.exe
+A:\Proyek\OODB_LAB\Proyek_Laundry 5.0 - copy\Proyek_Laundry\obj\x86\Debug\Proyek_Laundry.pdb
+A:\Proyek\OODB_LAB\Proyek_Laundry 5.0 - copy\Proyek_Laundry\bin\Debug\Proyek_Laundry.exe
+A:\Proyek\OODB_LAB\Proyek_Laundry 5.0 - copy\Proyek_Laundry\bin\Debug\Proyek_Laundry.pdb
+A:\Proyek\OODB_LAB\Proyek_Laundry 5.0 - copy\Proyek_Laundry\obj\x86\Debug\Proyek_Laundry.csprojResolveAssemblyReference.cache
+A:\Proyek\OODB_LAB\Proyek_Laundry 5.0 - copy\Proyek_Laundry\obj\x86\Debug\Project.ChangePasswordForm.resources
+A:\Proyek\OODB_LAB\Proyek_Laundry 5.0 - copy\Proyek_Laundry\obj\x86\Debug\Project.HomeForm.resources
+A:\Proyek\OODB_LAB\Proyek_Laundry 5.0 - copy\Proyek_Laundry\obj\x86\Debug\Project.LoginForm.resources
+A:\Proyek\OODB_LAB\Proyek_Laundry 5.0 - copy\Proyek_Laundry\obj\x86\Debug\Project.ManageUserForm.resources
+A:\Proyek\OODB_LAB\Proyek_Laundry 5.0 - copy\Proyek_Laundry\obj\x86\Debug\Project.MasterLaundryForm.resources
+A:\Proyek\OODB_LAB\Proyek_Laundry 5.0 - copy\Proyek_Laundry\obj\x86\Debug\Project.OrderForm.resources
+A:\Proyek\OODB_LAB\Proyek_Laundry 5.0 - copy\Proyek_Laundry\obj\x86\Debug\Project.Properties.Resources.resources
+A:\Proyek\OODB_LAB\Proyek_Laundry 5.0 - copy\Proyek_Laundry\obj\x86\Debug\Project.RegisterForm.resources
+A:\Proyek\OODB_LAB\Proyek_Laundry 5.0 - copy\Proyek_Laundry\obj\x86\Debug\Project.ReviewForm.resources
+A:\Proyek\OODB_LAB\Proyek_Laundry 5.0 - copy\Proyek_Laundry\obj\x86\Debug\Project.ViewTransactionForm.resources
+A:\Proyek\OODB_LAB\Proyek_Laundry 5.0 - copy\Proyek_Laundry\obj\x86\Debug\Proyek_Laundry.csproj.GenerateResource.Cache
+F:\RAND\OODB_LAB\Proyek_Laundry 5.0 - copy\Proyek_Laundry\bin\Debug\Proyek_Laundry.exe.config
+F:\RAND\OODB_LAB\Proyek_Laundry 5.0 - copy\Proyek_Laundry\obj\x86\Debug\Proyek_Laundry.exe
+F:\RAND\OODB_LAB\Proyek_Laundry 5.0 - copy\Proyek_Laundry\obj\x86\Debug\Proyek_Laundry.pdb
+F:\RAND\OODB_LAB\Proyek_Laundry 5.0 - copy\Proyek_Laundry\obj\x86\Debug\Proyek_Laundry.csprojResolveAssemblyReference.cache
+F:\RAND\OODB_LAB\Proyek_Laundry 5.0 - copy\Proyek_Laundry\obj\x86\Debug\Project.ChangePasswordForm.resources
+F:\RAND\OODB_LAB\Proyek_Laundry 5.0 - copy\Proyek_Laundry\obj\x86\Debug\Project.HomeForm.resources
+F:\RAND\OODB_LAB\Proyek_Laundry 5.0 - copy\Proyek_Laundry\obj\x86\Debug\Project.LoginForm.resources
+F:\RAND\OODB_LAB\Proyek_Laundry 5.0 - copy\Proyek_Laundry\obj\x86\Debug\Project.ManageUserForm.resources
+F:\RAND\OODB_LAB\Proyek_Laundry 5.0 - copy\Proyek_Laundry\obj\x86\Debug\Project.MasterLaundryForm.resources
+F:\RAND\OODB_LAB\Proyek_Laundry 5.0 - copy\Proyek_Laundry\obj\x86\Debug\Project.OrderForm.resources
+F:\RAND\OODB_LAB\Proyek_Laundry 5.0 - copy\Proyek_Laundry\obj\x86\Debug\Project.Properties.Resources.resources
+F:\RAND\OODB_LAB\Proyek_Laundry 5.0 - copy\Proyek_Laundry\obj\x86\Debug\Project.RegisterForm.resources
+F:\RAND\OODB_LAB\Proyek_Laundry 5.0 - copy\Proyek_Laundry\obj\x86\Debug\Project.ReviewForm.resources
+F:\RAND\OODB_LAB\Proyek_Laundry 5.0 - copy\Proyek_Laundry\obj\x86\Debug\Project.ViewTransactionForm.resources
+F:\RAND\OODB_LAB\Proyek_Laundry 5.0 - copy\Proyek_Laundry\obj\x86\Debug\Proyek_Laundry.csproj.GenerateResource.Cache
+F:\RAND\OODB_LAB\Proyek_Laundry 5.0 - copy\Proyek_Laundry\bin\Debug\Database1.mdf
+F:\RAND\OODB_LAB\Proyek_Laundry 5.0 - copy\Proyek_Laundry\bin\Debug\Database1_log.ldf
+F:\RAND\OODB_LAB\Proyek_Laundry 5.0 - copy\Proyek_Laundry\bin\Debug\Proyek_Laundry.exe
+F:\RAND\OODB_LAB\Proyek_Laundry 5.0 - copy\Proyek_Laundry\bin\Debug\Proyek_Laundry.pdb
+E:\RAND\OODB_LAB\Proyek_Laundry 5.0 - copy\Proyek_Laundry\bin\Debug\Proyek_Laundry.exe.config
+E:\RAND\OODB_LAB\Proyek_Laundry 5.0 - copy\Proyek_Laundry\obj\x86\Debug\Proyek_Laundry.exe
+E:\RAND\OODB_LAB\Proyek_Laundry 5.0 - copy\Proyek_Laundry\obj\x86\Debug\Proyek_Laundry.pdb
+E:\RAND\OODB_LAB\Proyek_Laundry 5.0 - copy\Proyek_Laundry\bin\Debug\Database1.mdf
+E:\RAND\OODB_LAB\Proyek_Laundry 5.0 - copy\Proyek_Laundry\bin\Debug\Database1_log.ldf
+E:\RAND\OODB_LAB\Proyek_Laundry 5.0 - copy\Proyek_Laundry\bin\Debug\Proyek_Laundry.exe
+E:\RAND\OODB_LAB\Proyek_Laundry 5.0 - copy\Proyek_Laundry\bin\Debug\Proyek_Laundry.pdb
+E:\RAND\OODB_LAB\Proyek_Laundry 5.0 - copy\Proyek_Laundry\obj\x86\Debug\Proyek_Laundry.csprojResolveAssemblyReference.cache
+E:\RAND\OODB_LAB\Proyek_Laundry 5.0 - copy\Proyek_Laundry\obj\x86\Debug\Project.ChangePasswordForm.resources
+E:\RAND\OODB_LAB\Proyek_Laundry 5.0 - copy\Proyek_Laundry\obj\x86\Debug\Project.HomeForm.resources
+E:\RAND\OODB_LAB\Proyek_Laundry 5.0 - copy\Proyek_Laundry\obj\x86\Debug\Project.LoginForm.resources
+E:\RAND\OODB_LAB\Proyek_Laundry 5.0 - copy\Proyek_Laundry\obj\x86\Debug\Project.ManageUserForm.resources
+E:\RAND\OODB_LAB\Proyek_Laundry 5.0 - copy\Proyek_Laundry\obj\x86\Debug\Project.MasterLaundryForm.resources
+E:\RAND\OODB_LAB\Proyek_Laundry 5.0 - copy\Proyek_Laundry\obj\x86\Debug\Project.OrderForm.resources
+E:\RAND\OODB_LAB\Proyek_Laundry 5.0 - copy\Proyek_Laundry\obj\x86\Debug\Project.Properties.Resources.resources
+E:\RAND\OODB_LAB\Proyek_Laundry 5.0 - copy\Proyek_Laundry\obj\x86\Debug\Project.RegisterForm.resources
+E:\RAND\OODB_LAB\Proyek_Laundry 5.0 - copy\Proyek_Laundry\obj\x86\Debug\Project.ReviewForm.resources
+E:\RAND\OODB_LAB\Proyek_Laundry 5.0 - copy\Proyek_Laundry\obj\x86\Debug\Project.ViewTransactionForm.resources
+E:\RAND\OODB_LAB\Proyek_Laundry 5.0 - copy\Proyek_Laundry\obj\x86\Debug\Proyek_Laundry.csproj.GenerateResource.Cache
+A:\Proyek\OODB_LAB\Proyek_Laundry 5.0 - copy\Proyek_Laundry\bin\Debug\Database.mdf
+A:\Proyek\OODB_LAB\Proyek_Laundry 5.0 - copy\Proyek_Laundry\bin\Debug\Database_log.ldf
+A:\Proyek\OODB_LAB\Proyek_Laundry FINAL\Proyek_Laundry\bin\Debug\Proyek_Laundry.exe.config
+A:\Proyek\OODB_LAB\Proyek_Laundry FINAL\Proyek_Laundry\obj\x86\Debug\Proyek_Laundry.exe
+A:\Proyek\OODB_LAB\Proyek_Laundry FINAL\Proyek_Laundry\obj\x86\Debug\Proyek_Laundry.pdb
+A:\Proyek\OODB_LAB FINAL\Proyek_Laundry FINAL\Proyek_Laundry\bin\Debug\Proyek_Laundry.exe.config
+A:\Proyek\OODB_LAB FINAL\Proyek_Laundry FINAL\Proyek_Laundry\obj\x86\Debug\Proyek_Laundry.exe
+A:\Proyek\OODB_LAB FINAL\Proyek_Laundry FINAL\Proyek_Laundry\obj\x86\Debug\Proyek_Laundry.pdb
+A:\Proyek\OODB_LAB FINAL\Proyek_Laundry FINAL\Proyek_Laundry\bin\Debug\Database.mdf
+A:\Proyek\OODB_LAB FINAL\Proyek_Laundry FINAL\Proyek_Laundry\bin\Debug\Database_log.ldf
+A:\Proyek\OODB_LAB FINAL\Proyek_Laundry FINAL\Proyek_Laundry\bin\Debug\Proyek_Laundry.exe
+A:\Proyek\OODB_LAB FINAL\Proyek_Laundry FINAL\Proyek_Laundry\bin\Debug\Proyek_Laundry.pdb
+A:\Proyek\OODB_LAB FINAL\Proyek_Laundry FINAL\Proyek_Laundry\obj\x86\Debug\Proyek_Laundry.csprojResolveAssemblyReference.cache
+A:\Proyek\OODB_LAB FINAL\Proyek_Laundry FINAL\Proyek_Laundry\obj\x86\Debug\Project.ChangePasswordForm.resources
+A:\Proyek\OODB_LAB FINAL\Proyek_Laundry FINAL\Proyek_Laundry\obj\x86\Debug\Project.HomeForm.resources
+A:\Proyek\OODB_LAB FINAL\Proyek_Laundry FINAL\Proyek_Laundry\obj\x86\Debug\Project.LoginForm.resources
+A:\Proyek\OODB_LAB FINAL\Proyek_Laundry FINAL\Proyek_Laundry\obj\x86\Debug\Project.ManageUserForm.resources
+A:\Proyek\OODB_LAB FINAL\Proyek_Laundry FINAL\Proyek_Laundry\obj\x86\Debug\Project.MasterLaundryForm.resources
+A:\Proyek\OODB_LAB FINAL\Proyek_Laundry FINAL\Proyek_Laundry\obj\x86\Debug\Project.OrderForm.resources
+A:\Proyek\OODB_LAB FINAL\Proyek_Laundry FINAL\Proyek_Laundry\obj\x86\Debug\Project.Properties.Resources.resources
+A:\Proyek\OODB_LAB FINAL\Proyek_Laundry FINAL\Proyek_Laundry\obj\x86\Debug\Project.RegisterForm.resources
+A:\Proyek\OODB_LAB FINAL\Proyek_Laundry FINAL\Proyek_Laundry\obj\x86\Debug\Project.ReviewForm.resources
+A:\Proyek\OODB_LAB FINAL\Proyek_Laundry FINAL\Proyek_Laundry\obj\x86\Debug\Project.ViewTransactionForm.resources
+A:\Proyek\OODB_LAB FINAL\Proyek_Laundry FINAL\Proyek_Laundry\obj\x86\Debug\Proyek_Laundry.csproj.GenerateResource.Cache
+D:\Proyek\OODB LAB\OODB_LAB FINAL\Proyek_Laundry FINAL\Proyek_Laundry\bin\Debug\Proyek_Laundry.exe.config
+D:\Proyek\OODB LAB\OODB_LAB FINAL\Proyek_Laundry FINAL\Proyek_Laundry\obj\x86\Debug\Proyek_Laundry.exe
+D:\Proyek\OODB LAB\OODB_LAB FINAL\Proyek_Laundry FINAL\Proyek_Laundry\obj\x86\Debug\Proyek_Laundry.pdb
+D:\Proyek\OODB LAB\OODB_LAB FINAL\Proyek_Laundry FINAL\Proyek_Laundry\bin\Debug\Database.mdf
+D:\Proyek\OODB LAB\OODB_LAB FINAL\Proyek_Laundry FINAL\Proyek_Laundry\bin\Debug\Database_log.ldf
+D:\Proyek\OODB LAB\OODB_LAB FINAL\Proyek_Laundry FINAL\Proyek_Laundry\bin\Debug\Proyek_Laundry.exe
+D:\Proyek\OODB LAB\OODB_LAB FINAL\Proyek_Laundry FINAL\Proyek_Laundry\bin\Debug\Proyek_Laundry.pdb
+D:\Proyek\OODB LAB\OODB_LAB FINAL\Proyek_Laundry FINAL\Proyek_Laundry\obj\x86\Debug\Proyek_Laundry.csprojResolveAssemblyReference.cache
+D:\Proyek\OODB LAB\OODB_LAB FINAL\Proyek_Laundry FINAL\Proyek_Laundry\obj\x86\Debug\Project.ChangePasswordForm.resources
+D:\Proyek\OODB LAB\OODB_LAB FINAL\Proyek_Laundry FINAL\Proyek_Laundry\obj\x86\Debug\Project.HomeForm.resources
+D:\Proyek\OODB LAB\OODB_LAB FINAL\Proyek_Laundry FINAL\Proyek_Laundry\obj\x86\Debug\Project.LoginForm.resources
+D:\Proyek\OODB LAB\OODB_LAB FINAL\Proyek_Laundry FINAL\Proyek_Laundry\obj\x86\Debug\Project.ManageUserForm.resources
+D:\Proyek\OODB LAB\OODB_LAB FINAL\Proyek_Laundry FINAL\Proyek_Laundry\obj\x86\Debug\Project.MasterLaundryForm.resources
+D:\Proyek\OODB LAB\OODB_LAB FINAL\Proyek_Laundry FINAL\Proyek_Laundry\obj\x86\Debug\Project.OrderForm.resources
+D:\Proyek\OODB LAB\OODB_LAB FINAL\Proyek_Laundry FINAL\Proyek_Laundry\obj\x86\Debug\Project.Properties.Resources.resources
+D:\Proyek\OODB LAB\OODB_LAB FINAL\Proyek_Laundry FINAL\Proyek_Laundry\obj\x86\Debug\Project.RegisterForm.resources
+D:\Proyek\OODB LAB\OODB_LAB FINAL\Proyek_Laundry FINAL\Proyek_Laundry\obj\x86\Debug\Project.ReviewForm.resources
+D:\Proyek\OODB LAB\OODB_LAB FINAL\Proyek_Laundry FINAL\Proyek_Laundry\obj\x86\Debug\Project.ViewTransactionForm.resources
+D:\Proyek\OODB LAB\OODB_LAB FINAL\Proyek_Laundry FINAL\Proyek_Laundry\obj\x86\Debug\Proyek_Laundry.csproj.GenerateResource.Cache
+D:\Proyek\OODB LAB\OODB_LAB FINAL\Proyek_Laundry FINAL\Proyek_Laundry\obj\x86\Debug\Proyek_Laundry.csproj.CoreCompileInputs.cache
